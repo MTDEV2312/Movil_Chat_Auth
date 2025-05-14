@@ -1,0 +1,8 @@
+node_modules
+.angular
+src/environments
+environment.ts
+environment.prod.ts
+
+src\environments
+/environments
