@@ -6,3 +6,6 @@ environment.prod.ts
 
 src\environments
 /environments
+
+www
+android
